@@ -2,11 +2,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import React from "react";
-import GridRow from '../GridRow';
-import Header from '../Header';
-import Footer from '../Footer';
-import Home from '../Home';
-import About from '../About';
+
 
 
 import CityInput from '../CityInput'
